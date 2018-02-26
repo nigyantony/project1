@@ -1,1 +1,0 @@
-his is the SHA-1 hash — a checksum of the content you're storing plus a header, which you'll learn about in a bit. Now you can see how Git has stored your data: $ find .git/objects -type f .git/objects/d6/70460b4b4aece5915caf5c68d12f560a9fe3e4.
